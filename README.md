@@ -19,14 +19,14 @@ Entwickle ein kleines PHP-Projekt für ein Online-Tagebuch, das es Benutzern erm
 
 ## Dateien
 
-|-- entries
-    |-- 2025-03-14_14-05-57.txt
-    |-- 2025-03-14_14-13-51.txt
-|-- public
-    |-- index.php
-    |-- save_entry.php
-|-- _footer.php
-|-- _header.php
+├── entries
+│   ├── 2025-03-14_14-05-57.txt
+│   └── 2025-03-14_14-13-51.txt
+├── public
+│   ├── index.php
+│   └── save_entry.php
+├── _footer.php
+└── _header.php
 
 
 
